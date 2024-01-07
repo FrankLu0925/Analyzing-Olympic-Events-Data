@@ -11,9 +11,6 @@ This project analyzes Olympic events data to explore the fairness of the games, 
 ## Methodology
 Statistical analysis and machine learning techniques are employed to analyze data, focusing on attributes like gender, height, weight, and country.
 
-## Data Description and Feature Engineering
-The dataset includes details on athletes' performances in various Olympic events. It involves addressing missing values and engineering features for analysis.
-
 ## Model Selection and Rationale
 Decision tree models are chosen for their effectiveness in handling categorical data and interpretability, particularly for predicting medal winners in sports like basketball.
 
